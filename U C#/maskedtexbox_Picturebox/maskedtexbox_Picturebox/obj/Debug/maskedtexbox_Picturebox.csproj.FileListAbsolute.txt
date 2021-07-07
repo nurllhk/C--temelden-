@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\bin\Debug\maskedtexbox_Picturebox.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\bin\Debug\maskedtexbox_Picturebox.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\bin\Debug\maskedtexbox_Picturebox.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\maskedtexbox_Picturebox\maskedtexbox_Picturebox\obj\Debug\maskedtexbox_Picturebox.pdb

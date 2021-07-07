@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\bin\Debug\Do_While.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\obj\Debug\Do_While.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\obj\Debug\Do_While.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Do_While\Do_While\obj\Debug\Do_While.pdb

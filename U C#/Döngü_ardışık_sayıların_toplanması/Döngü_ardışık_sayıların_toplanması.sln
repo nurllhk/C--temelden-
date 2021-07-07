@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döngü_ardışık_sayıların_toplanması", "Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması.csproj", "{6C943722-47C8-46C8-A682-6D06B40F6257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C943722-47C8-46C8-A682-6D06B40F6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C943722-47C8-46C8-A682-6D06B40F6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C943722-47C8-46C8-A682-6D06B40F6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C943722-47C8-46C8-A682-6D06B40F6257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE64042-E5E3-4B12-9E3C-F5C2A2E137BF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\bin\Debug\Timer_dijital_saat_projesi.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\bin\Debug\Timer_dijital_saat_projesi.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\bin\Debug\Timer_dijital_saat_projesi.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Timer_dijital_saat_projesi\Timer_dijital_saat_projesi\obj\Debug\Timer_dijital_saat_projesi.pdb

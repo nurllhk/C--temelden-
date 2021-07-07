@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\bin\Debug\İnt_Değişkenler_Projesi.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\bin\Debug\İnt_Değişkenler_Projesi.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\bin\Debug\İnt_Değişkenler_Projesi.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\İnt_Değişkenler_Projesi\İnt_Değişkenler_Projesi\obj\Debug\İnt_Değişkenler_Projesi.pdb

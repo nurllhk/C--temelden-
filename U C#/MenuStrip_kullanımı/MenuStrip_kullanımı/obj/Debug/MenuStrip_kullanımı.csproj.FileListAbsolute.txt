@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\bin\Debug\MenuStrip_kullanımı.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\bin\Debug\MenuStrip_kullanımı.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\bin\Debug\MenuStrip_kullanımı.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\MenuStrip_kullanımı\MenuStrip_kullanımı\obj\Debug\MenuStrip_kullanımı.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.pdb

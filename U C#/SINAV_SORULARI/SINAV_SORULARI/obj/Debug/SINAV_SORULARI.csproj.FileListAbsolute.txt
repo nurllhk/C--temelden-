@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\bin\Debug\SINAV_SORULARI.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\bin\Debug\SINAV_SORULARI.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\bin\Debug\SINAV_SORULARI.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\obj\Debug\SINAV_SORULARI.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\obj\Debug\SINAV_SORULARI.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\obj\Debug\SINAV_SORULARI.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\SINAV_SORULARI\SINAV_SORULARI\obj\Debug\SINAV_SORULARI.pdb

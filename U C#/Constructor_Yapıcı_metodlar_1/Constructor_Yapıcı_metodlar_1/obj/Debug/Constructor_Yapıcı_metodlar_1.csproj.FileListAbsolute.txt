@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\bin\Debug\Constructor_Yapıcı_metodlar_1.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\bin\Debug\Constructor_Yapıcı_metodlar_1.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\bin\Debug\Constructor_Yapıcı_metodlar_1.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\obj\Debug\Constructor_Yapıcı_metodlar_1.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\obj\Debug\Constructor_Yapıcı_metodlar_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\obj\Debug\Constructor_Yapıcı_metodlar_1.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Constructor_Yapıcı_metodlar_1\Constructor_Yapıcı_metodlar_1\obj\Debug\Constructor_Yapıcı_metodlar_1.pdb

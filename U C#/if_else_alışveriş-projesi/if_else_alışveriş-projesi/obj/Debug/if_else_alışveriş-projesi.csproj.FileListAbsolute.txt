@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\bin\Debug\if_else_alışveriş-projesi.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\bin\Debug\if_else_alışveriş-projesi.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\bin\Debug\if_else_alışveriş-projesi.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş-projesi.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş_projesi.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş_projesi.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş-projesi.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş-projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş-projesi.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_alışveriş-projesi\if_else_alışveriş-projesi\obj\Debug\if_else_alışveriş-projesi.pdb

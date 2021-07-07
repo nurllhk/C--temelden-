@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\bin\Debug\Değişkenler_String.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\bin\Debug\Değişkenler_String.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\bin\Debug\Değişkenler_String.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_String\Değişkenler_String\obj\Debug\Değişkenler_String.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timer_döngü_aracı_kullanımı", "timer_döngü_aracı_kullanımı\timer_döngü_aracı_kullanımı.csproj", "{6D80BDC7-F4E7-4B6B-A838-5FB5E28E1359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D80BDC7-F4E7-4B6B-A838-5FB5E28E1359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D80BDC7-F4E7-4B6B-A838-5FB5E28E1359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D80BDC7-F4E7-4B6B-A838-5FB5E28E1359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D80BDC7-F4E7-4B6B-A838-5FB5E28E1359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA860EB-0616-4C29-8D9A-AEC73D072B74}
+	EndGlobalSection
+EndGlobal

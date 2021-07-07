@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\bin\Debug\Login_paneli_projem_1.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\bin\Debug\Login_paneli_projem_1.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\bin\Debug\Login_paneli_projem_1.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Login_paneli_projem_1\Login_paneli_projem_1\obj\Debug\Login_paneli_projem_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\consol_tanıtım\consol_tanıtım\bin\Debug\consol_tanıtım.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\consol_tanıtım\consol_tanıtım\bin\Debug\consol_tanıtım.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\consol_tanıtım\consol_tanıtım\bin\Debug\consol_tanıtım.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\consol_tanıtım\consol_tanıtım\obj\Debug\consol_tanıtım.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\consol_tanıtım\consol_tanıtım\obj\Debug\consol_tanıtım.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\consol_tanıtım\consol_tanıtım\obj\Debug\consol_tanıtım.pdb

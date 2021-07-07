@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\bin\Debug\Değişkenler_Char.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\bin\Debug\Değişkenler_Char.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\bin\Debug\Değişkenler_Char.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Char\Değişkenler_Char\obj\Debug\Değişkenler_Char.pdb

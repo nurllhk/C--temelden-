@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\bin\Debug\For_Döngüsü.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\bin\Debug\For_Döngüsü.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\bin\Debug\For_Döngüsü.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\For_Döngüsü\For_Döngüsü\obj\Debug\For_Döngüsü.pdb

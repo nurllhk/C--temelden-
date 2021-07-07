@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\bin\Debug\Değişkenler_İntiger.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\bin\Debug\Değişkenler_İntiger.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\bin\Debug\Değişkenler_İntiger.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_İntiger\Değişkenler_İntiger\obj\Debug\Değişkenler_İntiger.pdb

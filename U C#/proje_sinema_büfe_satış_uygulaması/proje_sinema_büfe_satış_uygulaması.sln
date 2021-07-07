@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje_sinema_büfe_satış_uygulaması", "proje_sinema_büfe_satış_uygulaması\proje_sinema_büfe_satış_uygulaması.csproj", "{C096EC1E-C462-498F-8FDA-4ADEB470D571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C096EC1E-C462-498F-8FDA-4ADEB470D571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C096EC1E-C462-498F-8FDA-4ADEB470D571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C096EC1E-C462-498F-8FDA-4ADEB470D571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C096EC1E-C462-498F-8FDA-4ADEB470D571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {323FE3DB-6DF5-4DE0-BD62-C6D5B0F294FE}
+	EndGlobalSection
+EndGlobal

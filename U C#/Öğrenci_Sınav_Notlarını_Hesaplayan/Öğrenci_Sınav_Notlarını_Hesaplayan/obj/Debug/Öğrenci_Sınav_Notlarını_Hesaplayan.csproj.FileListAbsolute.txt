@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\bin\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\bin\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\bin\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Öğrenci_Sınav_Notlarını_Hesaplayan\Öğrenci_Sınav_Notlarını_Hesaplayan\obj\Debug\Öğrenci_Sınav_Notlarını_Hesaplayan.pdb

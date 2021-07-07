@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodlar_geriye_değer_döndürmeyen", "Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen.csproj", "{0F72FD26-C540-463C-A834-1F90FD5FFF79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F72FD26-C540-463C-A834-1F90FD5FFF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F72FD26-C540-463C-A834-1F90FD5FFF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F72FD26-C540-463C-A834-1F90FD5FFF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F72FD26-C540-463C-A834-1F90FD5FFF79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A43F544C-8E0F-4ACE-ADCB-91A54701B066}
+	EndGlobalSection
+EndGlobal

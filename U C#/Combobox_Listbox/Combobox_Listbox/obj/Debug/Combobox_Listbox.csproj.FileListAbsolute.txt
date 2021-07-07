@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\bin\Debug\Combobox_Listbox.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\bin\Debug\Combobox_Listbox.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\bin\Debug\Combobox_Listbox.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Combobox_Listbox\Combobox_Listbox\obj\Debug\Combobox_Listbox.csprojAssemblyReference.cache

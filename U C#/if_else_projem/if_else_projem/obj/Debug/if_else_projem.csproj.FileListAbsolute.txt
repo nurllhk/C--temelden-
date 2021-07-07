@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\bin\Debug\if_else_projem.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\bin\Debug\if_else_projem.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\bin\Debug\if_else_projem.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\if_else_projem\if_else_projem\obj\Debug\if_else_projem.pdb

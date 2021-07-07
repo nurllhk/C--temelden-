@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\bin\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\bin\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\bin\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\obj\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\obj\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\obj\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_Geriye_değer_döndüren_metodlar\Sınıflar_Geriye_değer_döndüren_metodlar\obj\Debug\Sınıflar_Geriye_değer_döndüren_metodlar.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\bin\Debug\while_döngüsü.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\bin\Debug\while_döngüsü.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\bin\Debug\while_döngüsü.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\while_döngüsü\while_döngüsü\obj\Debug\while_döngüsü.pdb

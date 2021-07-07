@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\bin\Debug\Switch_Case_yapısı.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\bin\Debug\Switch_Case_yapısı.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\bin\Debug\Switch_Case_yapısı.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\obj\Debug\Switch_Case_yapısı.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\obj\Debug\Switch_Case_yapısı.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\obj\Debug\Switch_Case_yapısı.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\obj\Debug\Switch_Case_yapısı.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\obj\Debug\Switch_Case_yapısı.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Switch_Case_yapısı\Switch_Case_yapısı\obj\Debug\Switch_Case_yapısı.pdb

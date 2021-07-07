@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\bin\Debug\Bilgi_yarışması_projem.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\bin\Debug\Bilgi_yarışması_projem.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\bin\Debug\Bilgi_yarışması_projem.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Bilgi_yarışması_projem\Bilgi_yarışması_projem\obj\Debug\Bilgi_yarışması_projem.pdb

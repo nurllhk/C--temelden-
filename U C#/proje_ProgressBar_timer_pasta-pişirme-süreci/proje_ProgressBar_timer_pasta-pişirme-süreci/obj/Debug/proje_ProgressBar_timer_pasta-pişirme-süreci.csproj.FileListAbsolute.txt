@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\bin\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\bin\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\bin\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta_pişirme_süreci.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta_pişirme_süreci.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\proje_ProgressBar_timer_pasta-pişirme-süreci\proje_ProgressBar_timer_pasta-pişirme-süreci\obj\Debug\proje_ProgressBar_timer_pasta-pişirme-süreci.csprojAssemblyReference.cache

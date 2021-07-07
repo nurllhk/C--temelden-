@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\bin\Debug\Metodlar_geriye_değer_döndürmeyen.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\bin\Debug\Metodlar_geriye_değer_döndürmeyen.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\bin\Debug\Metodlar_geriye_değer_döndürmeyen.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Metodlar_geriye_değer_döndürmeyen\Metodlar_geriye_değer_döndürmeyen\obj\Debug\Metodlar_geriye_değer_döndürmeyen.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\_3_e_tam_bölünenlerin_toplamı.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\_3_e_tam_bölünenlerin_toplamı.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\3'e_tam_bölünenlerin_toplamı.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\3'e_tam_bölünenlerin_toplamı.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\bin\Debug\3'e_tam_bölünenlerin_toplamı.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\bin\Debug\3'e_tam_bölünenlerin_toplamı.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\bin\Debug\3'e_tam_bölünenlerin_toplamı.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\3'e_tam_bölünenlerin_toplamı.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\3'e_tam_bölünenlerin_toplamı.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı\obj\Debug\3'e_tam_bölünenlerin_toplamı.csprojAssemblyReference.cache

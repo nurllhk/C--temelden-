@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\bin\Debug\ıf_ else_karar_yapıları.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\bin\Debug\ıf_ else_karar_yapıları.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\bin\Debug\ıf_ else_karar_yapıları.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf_ else_karar_yapıları.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf__else_karar_yapıları.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf__else_karar_yapıları.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf_ else_karar_yapıları.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf_ else_karar_yapıları.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf_ else_karar_yapıları.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\ıf_ else_karar_yapıları\ıf_ else_karar_yapıları\obj\Debug\ıf_ else_karar_yapıları.pdb

@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\bin\Debug\Dizi_elemanlarını_listeleme_döngü.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\bin\Debug\Dizi_elemanlarını_listeleme_döngü.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\bin\Debug\Dizi_elemanlarını_listeleme_döngü.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\obj\Debug\Dizi_elemanlarını_listeleme_döngü.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\obj\Debug\Dizi_elemanlarını_listeleme_döngü.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\obj\Debug\Dizi_elemanlarını_listeleme_döngü.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\obj\Debug\Dizi_elemanlarını_listeleme_döngü.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\obj\Debug\Dizi_elemanlarını_listeleme_döngü.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Dizi_elemanlarını_listeleme_döngü\Dizi_elemanlarını_listeleme_döngü\obj\Debug\Dizi_elemanlarını_listeleme_döngü.pdb

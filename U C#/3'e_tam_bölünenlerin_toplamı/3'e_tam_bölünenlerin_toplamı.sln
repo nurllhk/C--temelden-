@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3'e_tam_bölünenlerin_toplamı", "3'e_tam_bölünenlerin_toplamı\3'e_tam_bölünenlerin_toplamı.csproj", "{6F311004-2F7A-46E4-A039-8CB55244F393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F311004-2F7A-46E4-A039-8CB55244F393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F311004-2F7A-46E4-A039-8CB55244F393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F311004-2F7A-46E4-A039-8CB55244F393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F311004-2F7A-46E4-A039-8CB55244F393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {195468CB-4581-4BD8-8B9D-2F179648FFD1}
+	EndGlobalSection
+EndGlobal

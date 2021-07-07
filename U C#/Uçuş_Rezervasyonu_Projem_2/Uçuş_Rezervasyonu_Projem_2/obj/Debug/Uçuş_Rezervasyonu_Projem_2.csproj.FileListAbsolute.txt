@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\bin\Debug\Uçuş_Rezervasyonu_Projem_2.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\bin\Debug\Uçuş_Rezervasyonu_Projem_2.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\bin\Debug\Uçuş_Rezervasyonu_Projem_2.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Uçuş_Rezervasyonu_Projem_2\Uçuş_Rezervasyonu_Projem_2\obj\Debug\Uçuş_Rezervasyonu_Projem_2.pdb

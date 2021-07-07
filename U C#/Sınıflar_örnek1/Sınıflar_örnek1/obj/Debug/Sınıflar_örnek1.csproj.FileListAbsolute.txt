@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\bin\Debug\Sınıflar_örnek1.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\bin\Debug\Sınıflar_örnek1.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\bin\Debug\Sınıflar_örnek1.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.Form2.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıflar_örnek1\Sınıflar_örnek1\obj\Debug\Sınıflar_örnek1.pdb

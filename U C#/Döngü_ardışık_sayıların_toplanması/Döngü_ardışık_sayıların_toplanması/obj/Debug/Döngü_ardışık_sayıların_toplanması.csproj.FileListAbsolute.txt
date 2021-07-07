@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\bin\Debug\Döngü_ardışık_sayıların_toplanması.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\bin\Debug\Döngü_ardışık_sayıların_toplanması.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\bin\Debug\Döngü_ardışık_sayıların_toplanması.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Döngü_ardışık_sayıların_toplanması\Döngü_ardışık_sayıların_toplanması\obj\Debug\Döngü_ardışık_sayıların_toplanması.pdb

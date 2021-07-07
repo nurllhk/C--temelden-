@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\bin\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\bin\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\bin\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\obj\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\obj\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\obj\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\Sınıf_İçinde_Geriye_Değer_Döndürmeyen\obj\Debug\Sınıf_İçinde_Geriye_Değer_Döndürmeyen.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\bin\Debug\Foreach_Diziler.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\bin\Debug\Foreach_Diziler.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\bin\Debug\Foreach_Diziler.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Foreach_Diziler\Foreach_Diziler\obj\Debug\Foreach_Diziler.pdb

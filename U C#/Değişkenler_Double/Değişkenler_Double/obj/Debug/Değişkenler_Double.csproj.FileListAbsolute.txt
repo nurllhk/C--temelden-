@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\bin\Debug\Değişkenler_Double.exe.config
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\bin\Debug\Değişkenler_Double.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\bin\Debug\Değişkenler_Double.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.exe
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.pdb
+C:\Users\HP\OneDrive\Masaüstü\U C#\Değişkenler_Double\Değişkenler_Double\obj\Debug\Değişkenler_Double.csprojAssemblyReference.cache
